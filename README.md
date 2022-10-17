@@ -1,7 +1,7 @@
 <h1 align="center"> FLOW </h1>
 <p>Data visualization of earth water ressources<p>
 <h2 align="center">Technologies Used:</h2>
-<p> JAVA | JAVASCRIPT | MYSQL | SPRING | APIs | CSS | HTML </p>
+<p align="center"> JAVA | JAVASCRIPT | MYSQL | SPRING | APIs | CSS | HTML </p>
 
 <img width="1159" alt="flow1" src="https://user-images.githubusercontent.com/108160931/196275508-f2f99408-ec8c-45c6-9e77-3ae2d639f6fc.png">
 <img width="1153" alt="flow2" src="https://user-images.githubusercontent.com/108160931/196275515-2873ae49-8a2c-4b88-b23c-f56a49bc08a5.png">
