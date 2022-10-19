@@ -1,5 +1,6 @@
 <h1 align="center"> FLOW </h1>
-<p>Data visualization of earth's water ressources<p>
+<p align="center">Data visualization of earth's water ressources<p>
+<p align="center">FLOW allows users to create an account, using BCrypt for authentication, to keep track of their own personal water footprint. Each entry will be stored in a MySQL database, which can be referenced and deleted on the user's dashboard. Each entry will then be displayed on a graph, made with Graph.js, to allow each user to visually track see how much water they have consumed over the course of their account life.<p>
 <h2 align="center">Technologies Used:</h2>
 <p align="center"> JAVA | JAVASCRIPT | MYSQL | SPRING | APIs | CSS | HTML </p>
 <p align="center">
