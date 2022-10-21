@@ -4,14 +4,11 @@
 <h2 align="center">Technologies Used:</h2>
 <p align="center"> Java  |  JavaScript  |  MySQL  |  CSS  |  HTML  |  BCrypt  |  External APIs  |  Graph.js </p>
 <p align="center">
-<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/196275508-f2f99408-ec8c-45c6-9e77-3ae2d639f6fc.png">
-<img width="400" alt="flow2" src="https://user-images.githubusercontent.com/108160931/196275515-2873ae49-8a2c-4b88-b23c-f56a49bc08a5.png">
-<img width="400" alt="flow3" src="https://user-images.githubusercontent.com/108160931/196275535-599e4283-47db-44a1-b6a9-5111d7a502ab.png">
-<img width="400" alt="flow4" src="https://user-images.githubusercontent.com/108160931/196275543-f4c43511-bc2d-484b-abc9-6d4860c59933.png">
-<img width="400" alt="flow5" src="https://user-images.githubusercontent.com/108160931/196275550-538816e7-7782-49f1-bc2c-5308470f31c5.png">
-<img width="400" alt="flow6" src="https://user-images.githubusercontent.com/108160931/196275555-acb17cac-7daf-4009-aa28-e39b93f97689.png">
-<img width="400" alt="flow7" src="https://user-images.githubusercontent.com/108160931/196275561-f8ae5092-1775-45a0-bf4c-e6cd6919cef6.png">
-<img width="400" alt="flow8" src="https://user-images.githubusercontent.com/108160931/196275568-02f90f14-3a21-427b-b7fb-dc1130fab247.png">
+<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/197217800-54cda562-d456-411f-8c5d-6ca307a61515.gif">
+<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/197217890-9f13beb0-23f7-405a-ac2c-6f411564265f.gif">
+<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/197217941-40e677aa-5f9a-49e5-83b0-64edb3481e98.gif">
+<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/197217964-72330acb-8dca-42c8-ace9-9aea950d61b4.gif">
+<img width="400" alt="flow1" src="https://user-images.githubusercontent.com/108160931/197217991-5593cf4f-452e-489c-87c8-e41cf25fa684.gif">
 </p>
 <div>
   <h2>Installation</h2>
